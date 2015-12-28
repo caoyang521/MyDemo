@@ -1,1 +1,1 @@
-include ':app', ':taiji'
+include ':app', ':taiji', ':recyclerview'
